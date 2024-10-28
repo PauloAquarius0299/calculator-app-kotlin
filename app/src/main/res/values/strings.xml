@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="default_value">0</string>
+</resources>
